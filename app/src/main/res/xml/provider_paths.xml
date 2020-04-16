@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path
+        name="external_files"
+        path="." />
+    <files-path
+        name="HerojitFolder"
+        path="images/" />
+    <files-path
+        name="HerojitFolder"
+        path="." />
+    <external-path
+        name="HerojitFolder"
+        path="/" />
+
+    <external-path
+        name="DCIM"
+        path="/" />
+    <files-path
+        name="DCIM"
+        path="." />
+</paths>
